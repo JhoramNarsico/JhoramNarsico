@@ -4,11 +4,7 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhoramNarsico&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Jhoram's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoramNarsico&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Jhoram's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhoramNarsico&theme=vue-dark&hide_border=true" alt="Jhoram's Contribution Graph"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=JhoramNarsico&theme=vue-dark&hide_border=true" alt="Jhoram's Contribution Streak" />
 </p>
 
 ---
@@ -17,7 +13,7 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
 
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at **Xavier University - Ateneo de Cagayan**.
 - 🌱 I’m actively developing my skills in full-stack web development, with a deep focus on **Python** and **Django** to create robust **REST APIs** and dynamic web applications.
-- 💬 Ask me about: **Python, Django, Django REST Framework, MySQL, Firebase, and building websites.**
+- 💬 Ask me about: **Python, Django, Django REST Framework, MySQL, Firebase, and building inventory management systems.**
 - 📫 How to reach me: `jhoramnarsico@gmail.com`
 
 ---
