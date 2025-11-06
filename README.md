@@ -4,7 +4,7 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JhoramNarsico&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Jhoram's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoramNarsico&theme=vue-dark&hide_border=true" alt="Jhoram's Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JhoramNarsico&theme=vue-dark&hide_border=true" alt="Jhoram's Contribution Streak" />
 </p>
 
 ---
