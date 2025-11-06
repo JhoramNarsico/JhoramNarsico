@@ -2,7 +2,7 @@
 
 I am a passionate Information Technology student at STI College with a strong interest in backend development and creating practical, real-world applications. My journey is focused on building robust systems, exploring new technologies, and sharing my development process.
 
-![Jhoram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR-GITHUB-USERNAME>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Jhoram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<JhoramNarsico>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
