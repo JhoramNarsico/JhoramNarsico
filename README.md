@@ -16,7 +16,7 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at **Xavier University - Ateneo de Cagayan**.
 - 🌱 I’m actively developing my skills in full-stack web development, with a deep focus on **Python** and **Django** to create robust **REST APIs** and dynamic web applications.
 - 💬 Ask me about: **Python, Django, Django REST Framework, MySQL, Firebase, and building website.**
-- 📫 How to reach me: `<jhoramnarsic@gmail.com>`
+- 📫 How to reach me: `jhoramnarsic@gmail.com`
 
 ---
 
