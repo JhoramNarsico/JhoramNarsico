@@ -3,8 +3,12 @@
 I am a passionate Information Technology student at Xavier University - Ateneo de Cagayan with a strong interest in backend development and creating practical, real-world applications. My journey is focused on building robust systems, exploring new technologies, and sharing my development process.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhoramNarsico&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Jhoram's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoramNarsico&theme=vue-dark&hide_border=true" alt="Jhoram's Contribution Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JhoramNarsico&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Jhoram's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoramNarsico&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Jhoram's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhoramNarsico&theme=vue-dark&hide_border=true" alt="Jhoram's Contribution Graph"/>
 </p>
 
 ---
