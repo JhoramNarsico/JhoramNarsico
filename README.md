@@ -19,9 +19,9 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
 
 ## 💻 My Tech Stack
 
-<p align="center">
+<<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,firebase,bootstrap,js,html,css,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,firebase,bootstrap,js,html,css,git,github,vscode,java,mongodb" />
   </a>
 </p>
 
