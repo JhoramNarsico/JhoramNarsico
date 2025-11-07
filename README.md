@@ -7,10 +7,6 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoramNarsico&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Jhoram's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JhoramNarsico&theme=dracula" alt="Jhoram's GitHub Trophies" />
-</p>
----
 
 ## 🚀 About Me
 
