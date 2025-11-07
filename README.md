@@ -8,9 +8,8 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JhoramNarsico&theme=vue-dark&column=7" alt="Jhoram's GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhoramNarsico&theme=vue-dark&hide_border=true" alt="Jhoram's GitHub Activity Graph" />
 </p>
-
 ---
 
 ## 🚀 About Me
