@@ -8,7 +8,8 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
 </p>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JhoramNarsico)](https://git.io/streak-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/commit-activity?username=JhoramNarsico&theme=vue-dark&show_icons=true&hide_border=true" alt="Jhoram's Commit Activity" />
+</p>
 
 ---
 
