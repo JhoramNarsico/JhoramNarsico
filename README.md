@@ -22,7 +22,7 @@ I am a passionate Information Technology student at Xavier University - Ateneo d
 
 ---
 
-## 🏆 Project Spotlight: Rich Land Inventory System
+## 🏆 Project Spotlight: Rich Land IOS
 
 I am the developer of a complete inventory management system built from the ground up. This project demonstrates my ability to handle both backend and frontend development to deliver a feature-rich application.
 
